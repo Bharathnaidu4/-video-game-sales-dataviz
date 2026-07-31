@@ -18,7 +18,7 @@ Analysis of 16,598 video game titles (1980–2016) exploring platform dominance,
 | `vgsales.csv` | Dataset used |
 
 ## Live Dashboard
-🔗 **[Add your deployed Streamlit Community Cloud URL here after deploying]**
+🔗 https://wve3bazbsyzgbcbysaagy3.streamlit.app
 
 ## Key Findings
 1. Sales are concentrated, not spread evenly — the PS2 alone accounts for ~1.2B units.
